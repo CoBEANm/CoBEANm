@@ -1,2 +1,2 @@
 - Hi, I’m @CoBEANm
-- I’m interested in Java. I’m currently learning Java
+- I’m interested in IT. I’m currently writing in Java
